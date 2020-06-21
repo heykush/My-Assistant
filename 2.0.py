@@ -29,7 +29,6 @@ def speak(audio):
 
 
 
-
 def takeCommand():
     # It takes microphone input from user and returns string output
 
